@@ -50,7 +50,7 @@ This project follows the **MVC pattern**:
 
 ## 🙋‍♂️ Author
 
-    Aaditya Aryal
+Aaditya Aryal
 
 🎓 Student @ Conestoga College
 
