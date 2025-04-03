@@ -5,12 +5,6 @@ Test your memory, beat your own score, and enjoy a smooth UI with gradient visua
 
 ---
 
-## 📸 Screenshots
-
-> _(Add screenshots here if you want to show off the UI!)_
-
----
-
 ## 🚀 Features
 
 - ✅ 6x6 memory tile grid
@@ -56,7 +50,10 @@ This project follows the **MVC pattern**:
 
 ## 🙋‍♂️ Author
 
-#Aaditya Aryal
+    Aaditya Aryal
+
 🎓 Student @ Conestoga College
+
 📱 Course: PROG3210 - Mobile App Development
+
 🇨🇦 Based in Kitchener, Canada
